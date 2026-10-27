@@ -1,0 +1,6 @@
+{
+  "name": "JibuWise",
+  "description": "Simple tools. Clear answers. Fast, free online calculators and practical financial tools for Kenya and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

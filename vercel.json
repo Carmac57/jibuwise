@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/tools/fuel-commute-cost-calculator",
+      "destination": "/tools/fuel-cost-commute-calculator",
+      "permanent": true
+    },
+    {
+      "source": "/tools/vat-profit-margin-markup-calculator",
+      "destination": "/tools/vat-margin-markup-calculator",
+      "permanent": true
+    }
+  ]
+}

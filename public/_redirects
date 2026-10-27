@@ -1,0 +1,9 @@
+# JibuWise Hosting Redirects & Routing Configuration
+# Supported by Netlify, Cloudflare Pages, and compatible edge hosts
+
+# 301 Permanent Redirects for URL Aliases
+/tools/fuel-commute-cost-calculator    /tools/fuel-cost-commute-calculator    301!
+/tools/vat-profit-margin-markup-calculator    /tools/vat-margin-markup-calculator    301!
+
+# HTTP 404 Fallback for Unknown Routes
+/*    /404.html    404
